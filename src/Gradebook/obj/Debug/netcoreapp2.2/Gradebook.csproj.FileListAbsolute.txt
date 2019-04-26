@@ -1,0 +1,22 @@
+C:\Users\CodeNation16\gradebook\src\Gradebook\bin\Debug\netcoreapp2.2\Gradebook.deps.json
+C:\Users\CodeNation16\gradebook\src\Gradebook\bin\Debug\netcoreapp2.2\Gradebook.runtimeconfig.json
+C:\Users\CodeNation16\gradebook\src\Gradebook\bin\Debug\netcoreapp2.2\Gradebook.runtimeconfig.dev.json
+C:\Users\CodeNation16\gradebook\src\Gradebook\bin\Debug\netcoreapp2.2\Gradebook.dll
+C:\Users\CodeNation16\gradebook\src\Gradebook\bin\Debug\netcoreapp2.2\Gradebook.pdb
+C:\Users\CodeNation16\gradebook\src\Gradebook\obj\Debug\netcoreapp2.2\Gradebook.csprojAssemblyReference.cache
+C:\Users\CodeNation16\gradebook\src\Gradebook\obj\Debug\netcoreapp2.2\Gradebook.csproj.CoreCompileInputs.cache
+C:\Users\CodeNation16\gradebook\src\Gradebook\obj\Debug\netcoreapp2.2\Gradebook.AssemblyInfoInputs.cache
+C:\Users\CodeNation16\gradebook\src\Gradebook\obj\Debug\netcoreapp2.2\Gradebook.AssemblyInfo.cs
+C:\Users\CodeNation16\gradebook\src\Gradebook\obj\Debug\netcoreapp2.2\Gradebook.dll
+C:\Users\CodeNation16\gradebook\src\Gradebook\obj\Debug\netcoreapp2.2\Gradebook.pdb
+C:\Users\CodeNation16\Warren C# Work\gradebook\src\gradebook\obj\Debug\netcoreapp2.2\gradebook.csprojAssemblyReference.cache
+C:\Users\CodeNation16\Warren C# Work\gradebook\src\gradebook\obj\Debug\netcoreapp2.2\gradebook.csproj.CoreCompileInputs.cache
+C:\Users\CodeNation16\Warren C# Work\gradebook\src\gradebook\obj\Debug\netcoreapp2.2\gradebook.AssemblyInfoInputs.cache
+C:\Users\CodeNation16\Warren C# Work\gradebook\src\gradebook\obj\Debug\netcoreapp2.2\gradebook.AssemblyInfo.cs
+C:\Users\CodeNation16\Warren C# Work\gradebook\src\gradebook\obj\Debug\netcoreapp2.2\gradebook.dll
+C:\Users\CodeNation16\Warren C# Work\gradebook\src\gradebook\obj\Debug\netcoreapp2.2\gradebook.pdb
+C:\Users\CodeNation16\Warren C# Work\gradebook\src\Gradebook\bin\Debug\netcoreapp2.2\gradebook.deps.json
+C:\Users\CodeNation16\Warren C# Work\gradebook\src\Gradebook\bin\Debug\netcoreapp2.2\gradebook.runtimeconfig.json
+C:\Users\CodeNation16\Warren C# Work\gradebook\src\Gradebook\bin\Debug\netcoreapp2.2\gradebook.runtimeconfig.dev.json
+C:\Users\CodeNation16\Warren C# Work\gradebook\src\Gradebook\bin\Debug\netcoreapp2.2\gradebook.dll
+C:\Users\CodeNation16\Warren C# Work\gradebook\src\Gradebook\bin\Debug\netcoreapp2.2\gradebook.pdb
