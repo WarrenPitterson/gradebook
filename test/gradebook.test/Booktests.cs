@@ -24,17 +24,5 @@ namespace Gradebook.Tests
             Assert.Equal(70, result.Low, 1);
             Assert.Equal('B', result.Letter);
         }
-
-        [Fact]
-        public void TestingRangeOfScoreBetween1And100()
-        {
-            var book = new Book("");
-            book.AddGrade(105);
-            book.AddGrade(60);
-
-            var result = book.GetStatistics();
-
-            Assert.Equal(60, result.High, 1);
-        }
     }
 }
