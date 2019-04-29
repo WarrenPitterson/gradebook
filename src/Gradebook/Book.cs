@@ -8,7 +8,7 @@ namespace Gradebook
         public Book(string name)
         {
             grades = new List<double>();
-            this.name = name;
+            Name = name;
         }
 
         public void AddLetterGrade(char letterGrade)
@@ -48,7 +48,6 @@ namespace Gradebook
             }
         }
 
-       private List<double> grades;
 
         public Statistics GetStatistics()
         {
@@ -57,7 +56,7 @@ namespace Gradebook
             result.High = double.MinValue;
             result.Low = double.MaxValue;
 
-            foreach(var grade in grades)
+            foreach (var grade in grades)
             {
                 result.Low = Math.Min(grade, result.Low);
                 result.High = Math.Max(grade, result.High);
@@ -66,11 +65,11 @@ namespace Gradebook
 
             result.Average /= grades.Count;
 
-            switch(result.Average)
+            switch (result.Average)
             {
                 case var d when d >= 90.0:
                     result.Letter = 'A';
-                        break;
+                    break;
 
                 case var d when d >= 80.0:
                     result.Letter = 'B';
@@ -90,9 +89,19 @@ namespace Gradebook
             }
 
             return result;
-       
+
         }
-        public string name;
+
+        private List<double> grades;
+
+
+        public string Name
+        {
+            get;
+            private set;     
+        }
+
+        public const string category = "Science";
 
     }
 }
