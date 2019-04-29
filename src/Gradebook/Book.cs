@@ -1,12 +1,12 @@
+using gradebook;
 using System;
 using System.Collections.Generic;
 
 namespace Gradebook
-{ 
-        public delegate void GradeAddedDelegate(object sender, EventArgs args);
+{
+    public delegate void GradeAddedDelegate(object sender, EventArgs args);
 
-
-    public class Book
+    public class Book : NamedObject
     {
         public Book(string name)
         {
